@@ -1,0 +1,8 @@
+{
+  "name": "camp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/diogo26/camp.git",
+  "author": "Diogo Alves <diogoliveira2611@gmail.com>",
+  "license": "MIT"
+}
